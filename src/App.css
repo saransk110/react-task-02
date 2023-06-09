@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+  
+}
+.div1{
+  height: 300px;
+  padding:115px;
+  background-color: rgb(35, 35, 37);
+  color:rgb(255, 255, 255);
+}
+.topic{
+  text-decoration: solid;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font: size 5rem;
+}
+h5{
+  font-size:xx-small;
+}
+.card-container{
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  gap : 2rem;
+  margin: 30px;
+  justify-content: center;
+}
+.sarath{
+ height: 300px;
+ object-fit: contain;
+}
+Badge{
+  height: 20px;
+}
